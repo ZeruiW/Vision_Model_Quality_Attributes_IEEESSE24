@@ -1,0 +1,75 @@
+{
+    "ConvNext": {
+      "Original": 0.8137,
+      "Gaussian Noise L1": 0.7368,
+      "Gaussian Noise L2": 0.7160,
+      "Gaussian Noise L3": 0.6583,
+      "Defocus Blur L1": 0.6877,
+      "Defocus Blur L2": 0.6335,
+      "Defocus Blur L3": 0.4997,
+      "Pixelate L1": 0.7200,
+      "Pixelate L2": 0.6722,
+      "Pixelate L3": 0.6173
+    },
+    "CVT": {
+      "Original": 0.7644,
+      "Gaussian Noise L1": 0.4771,
+      "Gaussian Noise L2": 0.3370,
+      "Gaussian Noise L3": 0.1829,
+      "Defocus Blur L1": 0.3860,
+      "Defocus Blur L2": 0.2773,
+      "Defocus Blur L3": 0.1375,
+      "Pixelate L1": 0.5172,
+      "Pixelate L2": 0.4598,
+      "Pixelate L3": 0.2897
+    },
+    "Swin": {
+      "Original": 0.8338,
+      "Gaussian Noise L1": 0.7011,
+      "Gaussian Noise L2": 0.6395,
+      "Gaussian Noise L3": 0.5506,
+      "Defocus Blur L1": 0.6601,
+      "Defocus Blur L2": 0.5743,
+      "Defocus Blur L3": 0.4156,
+      "Pixelate L1": 0.7541,
+      "Pixelate L2": 0.7295,
+      "Pixelate L3": 0.6725
+    },
+    "SegFormer": {
+      "Original": 0.6504,
+      "Gaussian Noise L1": 0.3623,
+      "Gaussian Noise L2": 0.2556,
+      "Gaussian Noise L3": 0.1240,
+      "Defocus Blur L1": 0.1628,
+      "Defocus Blur L2": 0.0839,
+      "Defocus Blur L3": 0.0264,
+      "Pixelate L1": 0.2885,
+      "Pixelate L2": 0.2039,
+      "Pixelate L3": 0.1013
+    },
+    "ResNet": {
+      "Original": 0.7475,
+      "Gaussian Noise L1": 0.5868,
+      "Gaussian Noise L2": 0.4786,
+      "Gaussian Noise L3": 0.3084,
+      "Defocus Blur L1": 0.5845,
+      "Defocus Blur L2": 0.5071,
+      "Defocus Blur L3": 0.3668,
+      "Pixelate L1": 0.6320,
+      "Pixelate L2": 0.6320,
+      "Pixelate L3": 0.4610
+    },
+    "ViT": {
+      "Original": 0.7427,
+      "Gaussian Noise L1": 0.7065,
+      "Gaussian Noise L2": 0.6410,
+      "Gaussian Noise L3": 0.4980,
+      "Defocus Blur L1": 0.6594,
+      "Defocus Blur L2": 0.6128,
+      "Defocus Blur L3": 0.5075,
+      "Pixelate L1": 0.7405,
+      "Pixelate L2": 0.7383,
+      "Pixelate L3": 0.6987
+    }
+  }
+  

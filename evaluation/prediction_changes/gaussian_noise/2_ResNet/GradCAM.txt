@@ -1,0 +1,18 @@
+--- Original Dataset ---
+Precision: 0.6766
+Recall: 0.6126
+F1 Score: 0.6009
+--- Masked Dataset ---
+Precision: 0.6240
+Recall: 0.5233
+F1 Score: 0.5161
+
+--- Prediction Changes ---
+Average Change: 0.2150
+Average Percentage Change: 0.4713
+Q25 Change: 0.0000
+Median Change: 0.1382
+Q75 Change: 0.3513
+Q25 Percentage Change: 0.0000
+Median Percentage Change: 0.4526
+Q75 Percentage Change: 0.9343

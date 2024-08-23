@@ -1,0 +1,182 @@
+    {
+        "VIT": {
+            "Original": {
+                "GradCAM": "0.402",
+                "HiResCAM": "0.975",
+                "GradCAM++": "0.608",
+                "XgradCAM": "0.723",
+                "LayerCAM": "0.955"
+            },
+            "GaussianNoise": {
+                "GradCAM": "0.548",
+                "HiResCAM": "0.983",
+                "GradCAM++": "0.712",
+                "XgradCAM": "0.830",
+                "LayerCAM": "0.972"
+            },
+            "DefocusBlur": {
+                "GradCAM": "0.762",
+                "HiResCAM": "0.981",
+                "GradCAM++": "0.829",
+                "XgradCAM": "0.904",
+                "LayerCAM": "0.972"
+            },
+            "Pixelate": {
+                "GradCAM": "0.582",
+                "HiResCAM": "0.985",
+                "GradCAM++": "0.732",
+                "XgradCAM": "0.827",
+                "LayerCAM": "0.971"
+            }
+        },
+        "ConvNext": {
+            "Original": {
+                "GradCAM": "0.765",
+                "HiResCAM": "0.765",
+                "GradCAM++": "0.667",
+                "XgradCAM": "0.765",
+                "LayerCAM": "0.715"
+            },
+            "GaussianNoise": {
+                "GradCAM": "0.832",
+                "HiResCAM": "0.832",
+                "GradCAM++": "0.793",
+                "XgradCAM": "0.832",
+                "LayerCAM": "0.802"
+            },
+            "DefocusBlur": {
+                "GradCAM": "0.904",
+                "HiResCAM": "0.904",
+                "GradCAM++": "0.859",
+                "XgradCAM": "0.904",
+                "LayerCAM": "0.871"
+            },
+            "Pixelate": {
+                "GradCAM": "0.846",
+                "HiResCAM": "0.846",
+                "GradCAM++": "0.799",
+                "XgradCAM": "0.846",
+                "LayerCAM": "0.814"
+            }
+        },
+        "CVT": {
+            "Original": {
+                "GradCAM": "0.798",
+                "HiResCAM": "0.930",
+                "GradCAM++": "0.348",
+                "XgradCAM": "0.624",
+                "LayerCAM": "0.749"
+            },
+            "GaussianNoise": {
+                "GradCAM": "0.938",
+                "HiResCAM": "0.940",
+                "GradCAM++": "0.778",
+                "XgradCAM": "0.891",
+                "LayerCAM": "0.944"
+            },
+            "DefocusBlur": {
+                "GradCAM": "0.944",
+                "HiResCAM": "0.828",
+                "GradCAM++": "0.769",
+                "XgradCAM": "0.795",
+                "LayerCAM": "0.858"
+            },
+            "Pixelate": {
+                "GradCAM": "0.918",
+                "HiResCAM": "0.918",
+                "GradCAM++": "0.735",
+                "XgradCAM": "0.847",
+                "LayerCAM": "0.904"
+            }
+        },
+        "ResNet": {
+            "Original": {
+                "GradCAM": "0.530",
+                "HiResCAM": "0.536",
+                "GradCAM++": "0.542",
+                "XgradCAM": "0.631",
+                "LayerCAM": "0.521"
+            },
+            "GaussianNoise": {
+                "GradCAM": "0.697",
+                "HiResCAM": "0.702",
+                "GradCAM++": "0.696",
+                "XgradCAM": "0.776",
+                "LayerCAM": "0.665"
+            },
+            "DefocusBlur": {
+                "GradCAM": "0.565",
+                "HiResCAM": "0.571",
+                "GradCAM++": "0.607",
+                "XgradCAM": "0.617",
+                "LayerCAM": "0.540"
+            },
+            "Pixelate": {
+                "GradCAM": "0.639",
+                "HiResCAM": "0.645",
+                "GradCAM++": "0.655",
+                "XgradCAM": "0.739",
+                "LayerCAM": "0.622"
+            }
+        },
+        "Swin": {
+            "Original": {
+                "GradCAM": "0.230",
+                "HiResCAM": "0.230",
+                "GradCAM++": "0.243",
+                "XgradCAM": "0.230",
+                "LayerCAM": "0.253"
+            },
+            "GaussianNoise": {
+                "GradCAM": "0.594",
+                "HiResCAM": "0.594",
+                "GradCAM++": "0.624",
+                "XgradCAM": "0.594",
+                "LayerCAM": "0.663"
+            },
+            "DefocusBlur": {
+                "GradCAM": "0.806",
+                "HiResCAM": "0.806",
+                "GradCAM++": "0.816",
+                "XgradCAM": "0.806",
+                "LayerCAM": "0.819"
+            },
+            "Pixelate": {
+                "GradCAM": "0.576",
+                "HiResCAM": "0.576",
+                "GradCAM++": "0.618",
+                "XgradCAM": "0.577",
+                "LayerCAM": "0.631"
+            }
+        },
+        "SegFormer": {
+            "Original": {
+                "GradCAM": "0.332",
+                "HiResCAM": "0.332",
+                "GradCAM++": "0.411",
+                "XgradCAM": "0.322",
+                "LayerCAM": "0.423"
+            },
+            "GaussianNoise": {
+                "GradCAM": "0.332",
+                "HiResCAM": "0.332",
+                "GradCAM++": "0.446",
+                "XgradCAM": "0.332",
+                "LayerCAM": "0.463"
+            },
+            "DefocusBlur": {
+                "GradCAM": "0.224",
+                "HiResCAM": "0.224",
+                "GradCAM++": "0.287",
+                "XgradCAM": "0.224",
+                "LayerCAM": "0.315"
+            },
+            "Pixelate": {
+                "GradCAM": "0.344",
+                "HiResCAM": "0.344",
+                "GradCAM++": "0.442",
+                "XgradCAM": "0.344",
+                "LayerCAM": "0.463"
+            }
+        }
+    }
